@@ -6,7 +6,7 @@ CS senior at Portland State University (graduating 2027), mostly into AI and mac
 
 ## 🤖 AI / ML Projects
 
-- **[Fraud Case Investigator](https://github.com/VeniaminV/fraud-investigator)**: AI agent that investigates flagged credit card transactions and writes case reports. Caught 100% of fraud at 88% precision on my eval set (the rules engine alone was 50%). Python, Claude API tool use, FastAPI, SQLite, Docker, AWS Lambda.
+- **[Fraud Case Investigator](https://github.com/VeniaminV/fraud-investigator-AI-agent)**: AI agent that investigates flagged credit card transactions and writes case reports. Caught 100% of fraud at 88% precision on my eval set (the rules engine alone was 50%). Python, Claude API tool use, FastAPI, SQLite, Docker, AWS Lambda.
 - **[FIFA World Cup 2026 Outcome Predictor](https://github.com/VeniaminV/FIFA-WC2026-Outcome-Predictor)**: predicts match outcomes from team stats, comparing logistic regression vs. RBF SVM, with and without PCA. CS 445 group project.
 - **[MNIST Neural Network From Scratch](https://github.com/VeniaminV/MNIST-Neural-Network-From-Scratch-2-Layer-MLP)**: 2-layer MLP for handwritten digits in just NumPy, no ML frameworks.
 - **[Spam Classifier (Naive Bayes From Scratch)](https://github.com/VeniaminV/Spam-Classifier-Gaussian-Naive-Bayes-From-Scratch-)**: Gaussian Naive Bayes on the UCI Spambase dataset in pure Python.
