@@ -17,9 +17,7 @@ CS senior at Portland State University (graduating 2027), mostly into AI and mac
 
 ## 🎵 Audio / Computer Music
 
-- **[MIDI Synthesizer](https://github.com/VeniaminV/Synth)**: real-time sawtooth soft synth that plays from MIDI input.
-- **[Aleatoric Music Generator](https://github.com/VeniaminV/Aleatoric)**: generates a random song (key, tempo, chords, melody, bass) every time you run it.
-- **[CS 416P Computer Music and Sound](https://github.com/VeniaminV/CS416P-Computer-music-and-sound)**: smaller audio exercises.
+- **[CS 416P Computer Music and Sound](https://github.com/VeniaminV/CS416P-Computer-Music-and-Sound)**: all my programs from the class in one repo: a real-time MIDI synthesizer, an aleatoric music generator that writes a random song every run, and a clipping exercise.
 
 ## 🛠️ Software Engineering Coursework
 
