@@ -17,7 +17,7 @@ CS senior at Portland State University (graduating 2027), mostly into AI and mac
 
 ## 🎵 Audio / Computer Music
 
-- **[CS 416P Computer Music and Sound](https://github.com/VeniaminV/CS416P-Computer-music-and-sound)**: all my programs from the class in one repo: a real-time MIDI synthesizer, an aleatoric music generator that writes a random song every run, and a clipping exercise.
+- **[CS 416P Computer Music and Sound](https://github.com/VeniaminV/CS416P-Computer-music-and-sound)**: all my programs from the class in one repo: a real-time MIDI synthesizer, an aleatoric music generator that writes a random song every run, a Bell 103 modem decoder, and a clipping exercise.
 
 ## 🛠️ Software Engineering Coursework
 
