@@ -21,9 +21,10 @@ CS senior at Portland State University (graduating 2027), mostly into AI and mac
 
 ## 🛠️ Software Engineering Coursework
 
+- **[CS 333 Operating Systems](https://github.com/VeniaminV/CS333-Operating-Systems)**: systems programming in C: a multi-threaded password cracker, a shared-memory process manager that races workers to factor huge numbers, a UDP game server, a `/proc`-based `ps` clone, and more.
 - **[CS 314 ChocAn System](https://github.com/VeniaminV/CS314-chocan-project)**: team project, a healthcare data processing system with provider/manager/operator terminals and tests.
 - **[CS 302 Projects](https://github.com/VeniaminV/CS302-Projects)**: all 4 programs in one repo: linked lists, a templated doubly linked list, a recursive 2-3-4 tree, and a BST in C++ and Python.
 
 ## Tech I use
 
-Python · NumPy · TensorFlow/Keras · scikit-learn · C++ · FastAPI · SQLite · Docker · AWS Lambda · Claude API
+Python · NumPy · TensorFlow/Keras · scikit-learn · C · C++ · pthreads · FastAPI · SQLite · Docker · AWS Lambda · Claude API
